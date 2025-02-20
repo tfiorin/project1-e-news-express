@@ -1,10 +1,10 @@
 # Project 1 - Business Statistics: E-news Express
 
-## Project Overview
+## 📂 Project Overview
 
 E-news Express, an online news portal, aims to expand its business by increasing new subscribers. The company has redesigned its landing page to improve user engagement and conducted an A/B test to evaluate its effectiveness. This project involves statistical analysis to determine whether the new landing page leads to higher user engagement and conversions.
 
-## Objectives
+## 📌 Objectives
 
 The objective of this study is to analyze user behavior on the existing and new landing pages and answer the following questions:
 
@@ -16,7 +16,7 @@ The objective of this study is to analyze user behavior on the existing and new 
 
 &emsp;&emsp;Is the time spent on the new page the same for different language users?
 
-## Dataset Description
+## 🛠️ Dataset Description
 
 The dataset contains user interactions with the old and new versions of the landing page. The key attributes include:
 
@@ -32,7 +32,7 @@ The dataset contains user interactions with the old and new versions of the land
 
 &emsp;&emsp;language_preferred: Language chosen by the user to view the landing page.
 
-## Methodology
+## 📊 Methodology
 
 The following steps were performed in the analysis:
 
@@ -52,7 +52,7 @@ The following steps were performed in the analysis:
 
 &emsp;&emsp;Insights & Conclusions: Summarizing findings and recommending actions based on statistical results.
 
-## Results & Key Findings
+## 📢 Results & Key Findings
 
 The new landing page was evaluated for engagement and conversion effectiveness.
 
