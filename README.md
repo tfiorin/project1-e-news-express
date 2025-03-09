@@ -50,7 +50,7 @@ The following steps were performed in the analysis:
 
 &emsp;&emsp;&emsp;&emsp;Testing if time spent varies across languages.
 
-&emsp;&emsp;Insights & Conclusions: Summarizing findings and recommending actions based on statistical results.
+&emsp;&emsp;Insights & Conclusions: Summarizing findings and recommending actions based on statistical results. 
 
 ## 📢 Results & Key Findings
 
